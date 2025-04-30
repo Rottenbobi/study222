@@ -10,6 +10,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@arco-design/web-vue": "^2.54.3",
     "@lucky-canvas/vue": "^0.1.11",
     "ant-design-vue": "^4.2.6",
     "axios": "^1.9.0",
